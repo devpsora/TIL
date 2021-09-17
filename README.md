@@ -1,6 +1,6 @@
 # TIL
 Today I Learned
 
-# JavaScript
+# JavaScript H2
 
-# Vue
+# Vue H2
